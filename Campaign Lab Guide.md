@@ -16,3 +16,12 @@ Below are a range of resources you'll need for your first Campaign Lab:
 
 * [Campaign Lab Code of Conduct](https://github.com/CampaignLab/Campaign-Lab-Guide/blob/master/CL%20Code%20of%20Conduct.md) <- Making everyone feel welcome at our events
 
+
+**Making it easier to build a new range of websites demonstrating the impact of austerity in your community**
+
+A great byproduct of this work includes building up a range of austerity datasets that groups like [Outlandish](https://outlandish.com/) and others are able to quickly build into actionable portals to engage the public such as the [SchoolCuts](https://schoolcuts.org.uk/#!/) and [NHSCuts](http://nhscuts.org.uk/) websites that took last year's General Election by storm. This information doesn't currently exist, and should an election be called it would take significant time and effort to build new websites demonstrating the impact of cuts and policy.
+
+Campaign Lab is supported by:
+
+Newspeak House 
+Labour Together
