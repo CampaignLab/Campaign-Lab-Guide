@@ -8,6 +8,8 @@ We're running a series of events crowdsourcing datasets and running analysis on 
 
 Below are a range of resources you'll need for your first Campaign Lab:
 
+* [Goals of the first event](https://docs.google.com/document/d/11yWQCz1jNiZmm9vtIzTq79piwLRATbU5ziD-vt9SgnA/edit) <- first steps for tonight's Campaign Lab
+
 * [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) <- where we're building a list of our datasets
 
 * [Instructions for researchers](https://docs.google.com/document/d/1dKbcxUPmZZOXBHBghss8z0G1WzBY0IHEb_GnkK0gu9g/edit?usp=sharing) <- for those helping with dataset discovery
