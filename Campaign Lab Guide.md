@@ -1,6 +1,6 @@
 # Campaign-Lab-Guide
 
-[Campaign Lab](https://www.eventbrite.co.uk/e/campaign-lab-modelling-the-2018-local-elections-tickets-46649640330) is a community of political analysts, researchers, developers and data scientists organised around a simple idea, to develop an evidence-based approach to electoral campaigning in the UK. A little known fact, the Labour Party has never undertaken a retroactive analysis of it's electoral campaigning methods. This sounds a little farfetched, how can we as a movement iterate on how we communicate our ideas to the public and win elections if we're unwilling, despite our resources, to understand how we failed and succeeded in the past?
+[Campaign Lab](https://www.eventbrite.co.uk/e/campaign-lab-ii-modelling-the-2018-local-elections-tickets-47161916562) is a community of political analysts, researchers, developers and data scientists organised around a simple idea, to develop an evidence-based approach to electoral campaigning in the UK. A little known fact, the Labour Party has never undertaken a retroactive analysis of it's electoral campaigning methods. This sounds a little farfetched, how can we as a movement iterate on how we communicate our ideas to the public and win elections if we're unwilling, despite our resources, to understand how we failed and succeeded in the past?
 
 **As a result, we're committed to kickstarting a change in how the Labour Party conducts retrospective electoral analysis - and that begins with you and me.**
 
