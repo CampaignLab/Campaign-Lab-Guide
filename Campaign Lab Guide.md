@@ -8,7 +8,7 @@ We're running a series of events crowdsourcing datasets and running analysis on 
 
 Below are a range of resources you'll need for your first Campaign Lab:
 
-* [Goals of the second event](https://docs.google.com/document/d/11yWQCz1jNiZmm9vtIzTq79piwLRATbU5ziD-vt9SgnA/edit) <- first steps for tonight's Campaign Lab
+* [Goals of the third event](https://docs.google.com/document/d/11yWQCz1jNiZmm9vtIzTq79piwLRATbU5ziD-vt9SgnA/edit) <- first steps for tonight's Campaign Lab
 
 * [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) <- where we're building a list of our datasets
 
