@@ -12,6 +12,8 @@ Below are a range of resources you'll need for your first Campaign Lab:
 
 * Event structure - topics, data pipelines etc [working]
 
+* Glossary of terms - P & R etc [working]
+
 * [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) <- where we're building a list of our datasets
 
 * [Instructions for researchers](https://docs.google.com/document/d/1dKbcxUPmZZOXBHBghss8z0G1WzBY0IHEb_GnkK0gu9g/edit?usp=sharing) <- for those helping with dataset discovery
