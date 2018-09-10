@@ -10,6 +10,8 @@ Below are a range of resources you'll need for your first Campaign Lab:
 
 * [Goals of the third event](https://docs.google.com/document/d/1_Q2EF6AVHNwy8Q4M2187JvfcSH26yAEQq4sz3VH_3rM/edit?usp=sharing) <- first steps for tonight's Campaign Lab
 
+* Event structure - topics, data pipelines etc [working]
+
 * [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) <- where we're building a list of our datasets
 
 * [Instructions for researchers](https://docs.google.com/document/d/1dKbcxUPmZZOXBHBghss8z0G1WzBY0IHEb_GnkK0gu9g/edit?usp=sharing) <- for those helping with dataset discovery
