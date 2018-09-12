@@ -29,6 +29,6 @@ A great byproduct of this work includes building up a range of austerity dataset
 
 Campaign Lab is supported by:
 
-Newspeak House 
-Labour Together
-Police Rewired
+* Newspeak House 
+* Labour Together
+* Police Rewired
