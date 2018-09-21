@@ -10,7 +10,7 @@ Below are a range of resources you'll need for your first Campaign Lab:
 
 * [Next event: Campaign Lab IV, 7pm 16th October, Newspeak House, London](https://www.eventbrite.co.uk/e/campaign-lab-iv-modelling-the-impact-of-austerity-on-election-results-tickets-50132375284) <- Register now for our next event
 
-* [Goals of the third event](https://docs.google.com/document/d/1_Q2EF6AVHNwy8Q4M2187JvfcSH26yAEQq4sz3VH_3rM/edit?usp=sharing) <- first steps for tonight's Campaign Lab
+* [The World Transformed - Campaign Lab Intro](https://docs.google.com/document/d/1_Q2EF6AVHNwy8Q4M2187JvfcSH26yAEQq4sz3VH_3rM/edit?usp=sharing) <- goals and info for helping Campaign Lab
 
 * [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) <- where we're building a list of our datasets
 
