@@ -10,19 +10,19 @@ Below are a range of resources you'll need for your first Campaign Lab:
 
 * [Next event: Campaign Lab IV, 7pm 16th October, Newspeak House, London](https://www.eventbrite.co.uk/e/campaign-lab-iv-modelling-the-impact-of-austerity-on-election-results-tickets-50132375284) <- Register now for our next event
 
-* [The World Transformed - Campaign Lab Intro](https://docs.google.com/document/d/1_Q2EF6AVHNwy8Q4M2187JvfcSH26yAEQq4sz3VH_3rM/edit?usp=sharing) <- goals and info for helping Campaign Lab
+* Choose your team - [Justice Team](https://docs.google.com/document/d/1VLdr454F_SxgN7iudp7sUnerfSpWkzDZN5q-kKFaqkw/edit?usp=sharing), [Economy Team](https://docs.google.com/document/d/1nFnKiCBrrhWSSp6zM5PMq8UvCILt63JxgqyYd-GSkzU/edit?usp=sharing), [Housing Team](https://docs.google.com/document/d/1HblW708CC34P8jzgf3mwaSNop0d_8WFkq7sEZGfjfIw/edit?usp=sharing), [Health Team](https://docs.google.com/document/d/1MufM_YI1YnMNv-m1g_bpcKrpKJYPXV-PtM2SNq3DQAM/edit?usp=sharing), [Education Team](https://docs.google.com/document/d/1s8XecY8IZizGA_hiCzEwji8VGI-QnW1DCgy6kqlYktk/edit?usp=sharing).
 
-* [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) <- where we're building a list of our datasets
+* Contribute to the [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) <- where we're building a list of our datasets
 
-* [Instructions for researchers](https://docs.google.com/document/d/1dKbcxUPmZZOXBHBghss8z0G1WzBY0IHEb_GnkK0gu9g/edit?usp=sharing) <- for those helping with dataset discovery
+* You don't need to be able to code to help, [join the Crowdsourcing Team](https://docs.google.com/document/d/1dKbcxUPmZZOXBHBghss8z0G1WzBY0IHEb_GnkK0gu9g/edit?usp=sharing)
 
-* [Campaign Lab Slack team](https://campaignlabhq.slack.com/) <- where we discuss all things Campaign Lab
+* [Campaign Lab Team Chat](https://campaignlabhq.slack.com/) <- where we discuss all things Campaign Lab, remember to join your team channel
 
 * [Campaign Lab Code of Conduct](https://github.com/CampaignLab/Campaign-Lab-Guide/blob/master/CL%20Code%20of%20Conduct.md) <- Making everyone feel welcome at our events
 
-* Event structure - topics, data pipelines etc [working]
+* Event structure - topics, data pipelines etc
 
-* Glossary of terms - P & R etc [working]
+* Don't understand a thing? Check out our [Glossary of Terms](https://docs.google.com/document/d/1_7S-3v-HHpjbyR0sG-MXrWfXcQdrXaU0bSHhnpYACAU/edit?usp=sharing)
 
 
 **Making it easier to build a new range of websites demonstrating the impact of austerity in your community**
