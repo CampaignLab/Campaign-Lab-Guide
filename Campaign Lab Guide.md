@@ -10,6 +10,8 @@ Below are a range of resources you'll need for your first Campaign Lab:
 
 * [Next event: Campaign Lab IV, 7pm 16th October, Newspeak House, London](https://www.eventbrite.co.uk/e/campaign-lab-iv-modelling-the-impact-of-austerity-on-election-results-tickets-50132375284) <- Register now for our next event
 
+* [Current objectives](https://docs.google.com/spreadsheets/d/13WJ2dRv2lWoiCyMCXrtZzfjjczYcJwq8ffzUWjqTCj4/edit?usp=sharing)
+
 * Choose your team - [Justice Team](https://docs.google.com/document/d/1VLdr454F_SxgN7iudp7sUnerfSpWkzDZN5q-kKFaqkw/edit?usp=sharing), [Economy Team](https://docs.google.com/document/d/1nFnKiCBrrhWSSp6zM5PMq8UvCILt63JxgqyYd-GSkzU/edit?usp=sharing), [Housing Team](https://docs.google.com/document/d/1HblW708CC34P8jzgf3mwaSNop0d_8WFkq7sEZGfjfIw/edit?usp=sharing), [Health Team](https://docs.google.com/document/d/1MufM_YI1YnMNv-m1g_bpcKrpKJYPXV-PtM2SNq3DQAM/edit?usp=sharing), [Education Team](https://docs.google.com/document/d/1s8XecY8IZizGA_hiCzEwji8VGI-QnW1DCgy6kqlYktk/edit?usp=sharing).
 
 * Contribute to the [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) <- where we're building a list of our datasets
