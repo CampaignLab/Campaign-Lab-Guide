@@ -36,3 +36,5 @@ Campaign Lab is supported by:
 * Newspeak House 
 * Labour Together
 * Police Rewired
+
+[Powered by Dark Sky](https://darksky.net/forecast/40.7127,-74.0059/us12/en)
