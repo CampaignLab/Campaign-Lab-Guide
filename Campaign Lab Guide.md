@@ -8,7 +8,7 @@ We're running a series of events crowdsourcing datasets and running analysis on 
 
 Below are a range of resources you'll need for your first Campaign Lab:
 
-* [Next event: Campaign Lab IV, 7pm 16th October, Newspeak House, London](https://www.eventbrite.co.uk/e/campaign-lab-iv-modelling-the-impact-of-austerity-on-election-results-tickets-50132375284) <- Register now for our next event
+* [Next event: Campaign Lab V, All day 1st December, Newspeak House, London](https://www.eventbrite.co.uk/e/campaign-lab-v-hackday-tickets-51886654380) <- Register now for our next event
 
 * [Current objectives](https://docs.google.com/spreadsheets/d/13WJ2dRv2lWoiCyMCXrtZzfjjczYcJwq8ffzUWjqTCj4/edit?usp=sharing)
 
