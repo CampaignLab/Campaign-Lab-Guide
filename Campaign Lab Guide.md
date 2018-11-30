@@ -10,21 +10,21 @@ Below are a range of resources you'll need for your first Campaign Lab:
 
 * [Next event: Campaign Lab V, All day 1st December, Newspeak House, London](https://www.eventbrite.co.uk/e/campaign-lab-v-hackday-tickets-51886654380) <- Register now for our next event
 
-* [Current objectives](https://docs.google.com/spreadsheets/d/13WJ2dRv2lWoiCyMCXrtZzfjjczYcJwq8ffzUWjqTCj4/edit?usp=sharing)
+* Data scientist? Choose your [Hackday Challenge](https://github.com/CampaignLab/data-pipeline/issues)
 
-* Choose your team - [Justice Team](https://docs.google.com/document/d/1VLdr454F_SxgN7iudp7sUnerfSpWkzDZN5q-kKFaqkw/edit?usp=sharing), [Economy Team](https://docs.google.com/document/d/1nFnKiCBrrhWSSp6zM5PMq8UvCILt63JxgqyYd-GSkzU/edit?usp=sharing), [Housing Team](https://docs.google.com/document/d/1HblW708CC34P8jzgf3mwaSNop0d_8WFkq7sEZGfjfIw/edit?usp=sharing), [Health Team](https://docs.google.com/document/d/1MufM_YI1YnMNv-m1g_bpcKrpKJYPXV-PtM2SNq3DQAM/edit?usp=sharing), [Education Team](https://docs.google.com/document/d/1s8XecY8IZizGA_hiCzEwji8VGI-QnW1DCgy6kqlYktk/edit?usp=sharing).
+* Developer? Choose a Challenge above or help us [spec out what's needed for a new SchoolCuts style website](https://github.com/CampaignLab/data-pipeline/issues/24)
 
-* Contribute to the [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) <- where we're building a list of our datasets
+* Are you a researcher/non-coder? Contribute to the [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) <- where we're building a list of datasets, check the GAPS tab for missing required data
 
-* You don't need to be able to code to help, [join the Crowdsourcing Team](https://docs.google.com/document/d/1dKbcxUPmZZOXBHBghss8z0G1WzBY0IHEb_GnkK0gu9g/edit?usp=sharing)
-
-* [Campaign Lab Team Chat](https://campaignlabhq.slack.com/) <- where we discuss all things Campaign Lab, remember to join your team channel
+* [Campaign Lab Team Chat](https://campaignlabhq.slack.com/) <- where we discuss all things Campaign Lab, remember to the relevant channels!
 
 * [Campaign Lab Code of Conduct](https://github.com/CampaignLab/Campaign-Lab-Guide/blob/master/CL%20Code%20of%20Conduct.md) <- Making everyone feel welcome at our events
 
 * Event structure - topics, data pipelines etc
 
-* Don't understand a thing? Check out our [Glossary of Terms](https://docs.google.com/document/d/1_7S-3v-HHpjbyR0sG-MXrWfXcQdrXaU0bSHhnpYACAU/edit?usp=sharing)
+* Don't understand a thing? Check out our [Glossary of Terms](https://docs.google.com/document/d/1_7S-3v-HHpjbyR0sG-MXrWfXcQdrXaU0bSHhnpYACAU/edit?usp=sharing) <-- contribute to this at your leisure
+
+* Unsure of how you can help? Ask [James](twitter.com/jamesforthemany) or [Hannah](twitter.com/hannah_o_rourke) for help via Twitter, Slack or in person at an event, or those around you who may have contributed to previous Campaign Labs
 
 
 **Making it easier to build a new range of websites demonstrating the impact of austerity in your community**
