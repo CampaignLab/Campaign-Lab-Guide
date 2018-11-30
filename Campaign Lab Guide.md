@@ -12,7 +12,7 @@ Below are a range of resources you'll need for your first Campaign Lab:
 
 * Data scientist? Choose your [Hackday Challenge](https://github.com/CampaignLab/data-pipeline/issues)
 
-* Developer? Choose a Challenge above or help us [spec out what's needed for a new SchoolCuts style website](https://github.com/CampaignLab/data-pipeline/issues/24)
+* Developer? Choose a [Challenge](https://github.com/CampaignLab/data-pipeline/issues) or help us [spec out what's needed for a new SchoolCuts style website](https://github.com/CampaignLab/data-pipeline/issues/24)
 
 * Are you a researcher/non-coder? Contribute to the [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) <- where we're building a list of datasets, check the GAPS tab for missing required data
 
