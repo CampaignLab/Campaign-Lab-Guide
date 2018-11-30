@@ -20,8 +20,6 @@ Below are a range of resources you'll need for your first Campaign Lab:
 
 * [Campaign Lab Code of Conduct](https://github.com/CampaignLab/Campaign-Lab-Guide/blob/master/CL%20Code%20of%20Conduct.md) <- Making everyone feel welcome at our events
 
-* Event structure - topics, data pipelines etc
-
 * Don't understand a thing? Check out our [Glossary of Terms](https://docs.google.com/document/d/1_7S-3v-HHpjbyR0sG-MXrWfXcQdrXaU0bSHhnpYACAU/edit?usp=sharing) <-- contribute to this at your leisure
 
 * Unsure of how you can help? Ask [James](twitter.com/jamesforthemany) or [Hannah](twitter.com/hannah_o_rourke) for help via Twitter, Slack or in person at an event, or those around you who may have contributed to previous Campaign Labs
