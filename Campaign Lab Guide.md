@@ -8,7 +8,7 @@ We're running a series of events crowdsourcing datasets and running analysis on 
 
 Below are a range of resources you'll need for your first Campaign Lab:
 
-* [Next event: Campaign Lab V, All day 1st December, Newspeak House, London](https://www.eventbrite.co.uk/e/campaign-lab-v-hackday-tickets-51886654380) <- Register now for our next event
+* [Next event: Campaign Lab VI, All day 23 February, Newspeak House, London](https://www.eventbrite.co.uk/e/campaign-lab-vi-hackday-tickets-54929215763) <- Register now for our next event
 
 * Data scientist? Choose your [Hackday Challenge](https://github.com/CampaignLab/data-pipeline/issues)
 
@@ -17,6 +17,8 @@ Below are a range of resources you'll need for your first Campaign Lab:
 * Are you a researcher/non-coder? Contribute to the [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) <- where we're building a list of datasets, check the GAPS tab for missing required data
 
 * [Campaign Lab Team Chat](https://campaignlabhq.slack.com/) <- where we discuss all things Campaign Lab, remember to the relevant channels!
+
+* [Want to help drive the direction of Campaign Lab?](https://www.loomio.org/join/group/63hVRLxngXfC8vvqFFGFuHod/) <- Add new topics, discuss and vote on current issues and proposals on our Loomio page [NEW]
 
 * [Campaign Lab Code of Conduct](https://github.com/CampaignLab/Campaign-Lab-Guide/blob/master/CL%20Code%20of%20Conduct.md) <- Making everyone feel welcome at our events
 
