@@ -16,7 +16,7 @@ Below are a range of resources you'll need for your first Campaign Lab:
 
 * Are you a researcher or activist? Contribute to the [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) where we're building a list of datasets, check the GAPS tab for missing required data - or - help us build the new [Campaign Library](https://docs.google.com/spreadsheets/d/14GW_B2RYSpKPeS3zDQ_zJWQ-XL1bxGPd9SvpDb-E0Cw/edit?usp=sharing), a new library resource for activists and campaign organisers of campaign theory and practice in the UK. Alternatively, join the Campaign Innovation group - discussing their latest ideas and plans for improving campaigns.
 
-* [Campaign Lab Team Chat](https://campaignlabhq.slack.com/) <- where we discuss all things Campaign Lab, remember to the relevant channels!
+* [Campaign Lab Team Chat](https://campaignlabhq.slack.com/) <- where we discuss all things Campaign Lab, remember to join the relevant channels!
 
 * [Want to help drive the direction of Campaign Lab?](https://www.loomio.org/join/group/63hVRLxngXfC8vvqFFGFuHod/) <- Add new topics, discuss and vote on current issues and proposals on our Loomio page [NEW]
 
