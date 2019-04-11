@@ -4,19 +4,26 @@
 
 **As a result, we're committed to kickstarting a change in how the Labour Party conducts electoral campaigning analysis - and that begins with you and me.**
 
-We're running a series of events crowdsourcing datasets and running analysis on what data we have, to better understand what happened in the 2018 Local Elections as a starting point. We're focusing on identifying local areas that buck the national demographic and politics trends, then diving down into interviews and qualitative research of those areas to get a handle on the ground situation. With that, we'll hopefully have some understanding of what worked and what didn't.
+We've run a series of events crowdsourcing datasets and running analysis on what data we have, to better understand what happened in the 2018 Local Elections as a starting point. We're focusing on identifying local areas that buck the national demographic and politics trends, then diving down into interviews and qualitative research of those areas to get a handle on the ground situation. With that, we'll hopefully have some understanding of what worked and what didn't.
 
 Below are a range of resources you'll need for your first Campaign Lab:
 
-* [Next event: Campaign Lab VI, All day 23 February, Newspeak House, London](https://www.eventbrite.co.uk/e/campaign-lab-vi-hackday-tickets-54929215763) <- Register now for our next event
+1. **Are you a Data scientist?** 
+*Before you begin, [read our guidance] on how we are structuring our data(LINK)
+*Help us to structure and label [our existing datasets from our inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0)
+*Help us to start to build [a simple model] to work out which election results are outliers.(LINK)
+*Or help us look for correlations between election results and different political factors by choosing your [Hackday Challenge](https://github.com/CampaignLab/data-pipeline/issues)
 
-* Data scientist? Choose your [Hackday Challenge](https://github.com/CampaignLab/data-pipeline/issues)
+2. **Are you a Developer?** 
+*Work with activists to help us to design a [new dashboard] to make Get Out the Vote Election operations more efficient(Link to brief)
+*Help us [spec out what's needed for a new SchoolCuts style website](https://github.com/CampaignLab/data-pipeline/issues/24)
 
-* Developer? Choose a [Challenge](https://github.com/CampaignLab/data-pipeline/issues) or help us [spec out what's needed for a new SchoolCuts style website](https://github.com/CampaignLab/data-pipeline/issues/24)
+3. **Are you a researcher or activist?**
+*Contribute to the [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) where we're building a list of datasets, check the GAPS tab for missing required data or add in additional data you are aware of or find then add it in!
+*If you are an organiser, activist or you have experience of running a committee room - help work with developers on creating a [new dashboard] for managing information for Get Out the Vote Operations(LINK)
+*Or help us build the new [Campaign Library](https://airtable.com/invite/l?inviteId=invGG3yYWHtSnWFda&inviteToken=6a5af86c02deb40429f1dcda1b4416c1a7c30f4e1f97ffaa8b2219c2cd169a9a), a new resource for activists and campaign organisers of campaign theory and practice in the UK providing accessible summaries to academic studies. You can help by finding academic papers about campaigning and summarising them using this form or by updating the airtable here. 
 
-* Are you a researcher or activist? Contribute to the [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) where we're building a list of datasets, check the GAPS tab for missing required data - or - help us build the new [Campaign Library](https://airtable.com/invite/l?inviteId=invGG3yYWHtSnWFda&inviteToken=6a5af86c02deb40429f1dcda1b4416c1a7c30f4e1f97ffaa8b2219c2cd169a9a), a new resource for activists and campaign organisers of campaign theory and practice in the UK providing accessible summaries to academic studies. Alternatively, join the Campaign Innovation group (Slack) - discussing their latest ideas and plans for improving campaigns.
-
-* [Campaign Lab Team Chat](https://campaignlabhq.slack.com/) <- where we discuss all things Campaign Lab, remember to join the relevant channels!
+**Whatever you are working on - don't forget to join our [Campaign Lab Team Chat](https://campaignlabhq.slack.com/) <- where we discuss all things Campaign Lab, remember to join the relevant channels!**
 
 * [Want to help drive the direction of Campaign Lab?](https://www.loomio.org/join/group/63hVRLxngXfC8vvqFFGFuHod/) <- Add new topics, discuss and vote on current issues and proposals on our Loomio page [NEW]
 
