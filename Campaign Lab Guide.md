@@ -15,7 +15,7 @@ Below are a range of resources you'll need for your first Campaign Lab:
 **Are you a Data scientist?** 
  - Before you begin, [read our guidance] on how we are structuring our data(LINK)
  - Help us to structure and label [our existing datasets from our inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0)
- - Help us to start to build [an initial model] to work out which election results are outliers.(LINK)
+ - Help us to start to build [an initial model to work out which election results are outliers](https://github.com/CampaignLab/data-pipeline/issues/35) This will allow us to work out who may have been innovating in their campaigns.
  - Or help us look for correlations between election results and different political factors by choosing your [Hackday Challenge](https://github.com/CampaignLab/data-pipeline/issues)
 
 **Are you a Developer?** 
