@@ -8,30 +8,33 @@ We've run a series of events crowdsourcing datasets and running analysis on what
 
 Below are a range of resources you'll need for your first Campaign Lab:
 
-1. **Are you a Data scientist?** 
+1. Here's [a doc] outlining our communities work so far and who is working on each bit!(https://docs.google.com/document/u/1/d/1QAQ4Bi3mv17ahmY1bnDFTI9eeiQeKp01PTSuGW6ZIwo/edit?usp=drive_web&ouid=108819407423296546524) 
+
+2. Work out how you can help!
+**Are you a Data scientist?** 
  - Before you begin, [read our guidance] on how we are structuring our data(LINK)
  - Help us to structure and label [our existing datasets from our inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0)
- - Help us to start to build [a simple model] to work out which election results are outliers.(LINK)
+ - Help us to start to build [an initial model] to work out which election results are outliers.(LINK)
  - Or help us look for correlations between election results and different political factors by choosing your [Hackday Challenge](https://github.com/CampaignLab/data-pipeline/issues)
 
-2. **Are you a Developer?** 
+**Are you a Developer?** 
  - Work with activists to help us to design a [new dashboard] to make Get Out the Vote Election operations more efficient(Link to brief)
  - Help us [spec out what's needed for a new SchoolCuts style website](https://github.com/CampaignLab/data-pipeline/issues/24)
 
-3. **Are you a researcher or activist?**
+**Are you a researcher or activist?**
  - Contribute to the [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) where we're building a list of datasets, check the GAPS tab for missing required data or add in additional data you are aware of or find then add it in!
  - If you are an organiser, activist or you have experience of running a committee room - help work with developers on creating a [new dashboard] for managing information for Get Out the Vote Operations(LINK)
  - Or help us build the new [Campaign Library](https://airtable.com/invite/l?inviteId=invGG3yYWHtSnWFda&inviteToken=6a5af86c02deb40429f1dcda1b4416c1a7c30f4e1f97ffaa8b2219c2cd169a9a), a new resource for activists and campaign organisers of campaign theory and practice in the UK providing accessible summaries to academic studies. You can help by finding academic papers about campaigning and summarising them using this form or by updating the airtable here. 
 
-* **Whatever you are working on - don't forget to join our [Campaign Lab Team Chat](https://campaignlabhq.slack.com/)** <- where we discuss all things Campaign Lab, remember to join the relevant channels!**
+3. **Whatever you are working on - don't forget to join our [Campaign Lab Team Chat](https://campaignlabhq.slack.com/)** <- where we discuss all things Campaign Lab, remember to join the relevant channels!**
 
-* [Want to help drive the direction of Campaign Lab?](https://www.loomio.org/join/group/63hVRLxngXfC8vvqFFGFuHod/) <- Add new topics, discuss and vote on current issues and proposals on our Loomio page [NEW]
+4. [Want to help drive the direction of Campaign Lab?](https://www.loomio.org/join/group/63hVRLxngXfC8vvqFFGFuHod/) <- Add new topics, discuss and vote on current issues and proposals on our Loomio page [NEW]
 
-* [Campaign Lab Code of Conduct](https://github.com/CampaignLab/Campaign-Lab-Guide/blob/master/CL%20Code%20of%20Conduct.md) <- Making everyone feel welcome at our events
+5. [Campaign Lab Code of Conduct](https://github.com/CampaignLab/Campaign-Lab-Guide/blob/master/CL%20Code%20of%20Conduct.md) <- Making everyone feel welcome at our events
 
-* Don't understand a thing? Check out our [Glossary of Terms](https://docs.google.com/document/d/1_7S-3v-HHpjbyR0sG-MXrWfXcQdrXaU0bSHhnpYACAU/edit?usp=sharing) <-- contribute to this at your leisure
+6. Don't understand a thing? Check out our [Glossary of Terms](https://docs.google.com/document/d/1_7S-3v-HHpjbyR0sG-MXrWfXcQdrXaU0bSHhnpYACAU/edit?usp=sharing) <-- contribute to this at your leisure
 
-* Unsure of how you can help? Ask [James](twitter.com/jamesforthemany) or [Hannah](twitter.com/hannah_o_rourke) for help via Twitter, Slack or in person at an event, or those around you who may have contributed to previous Campaign Labs
+7. Unsure of how you can help? Ask [James](twitter.com/jamesforthemany) or [Hannah](twitter.com/hannah_o_rourke) for help via Twitter, Slack or in person at an event, or those around you who may have contributed to previous Campaign Labs
 
 
 **Making it easier to build a new range of websites demonstrating the impact of austerity in your community**
