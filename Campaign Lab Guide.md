@@ -9,10 +9,10 @@ We've run a series of events crowdsourcing datasets and running analysis on what
 Below are a range of resources you'll need for your first Campaign Lab:
 
 1. **Are you a Data scientist?** 
-*Before you begin, [read our guidance] on how we are structuring our data(LINK)
-*Help us to structure and label [our existing datasets from our inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0)
-*Help us to start to build [a simple model] to work out which election results are outliers.(LINK)
-*Or help us look for correlations between election results and different political factors by choosing your [Hackday Challenge](https://github.com/CampaignLab/data-pipeline/issues)
+ * Before you begin, [read our guidance] on how we are structuring our data(LINK)
+ * Help us to structure and label [our existing datasets from our inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0)
+ * Help us to start to build [a simple model] to work out which election results are outliers.(LINK)
+ * Or help us look for correlations between election results and different political factors by choosing your [Hackday Challenge](https://github.com/CampaignLab/data-pipeline/issues)
 
 2. **Are you a Developer?** 
 *Work with activists to help us to design a [new dashboard] to make Get Out the Vote Election operations more efficient(Link to brief)
