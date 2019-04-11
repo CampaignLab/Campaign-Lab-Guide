@@ -11,6 +11,7 @@ Below are a range of resources you'll need for your first Campaign Lab:
 1. Here's [a doc outlining our communities work so far and who is working on each bit](https://docs.google.com/document/u/1/d/1QAQ4Bi3mv17ahmY1bnDFTI9eeiQeKp01PTSuGW6ZIwo/edit?usp=drive_web&ouid=108819407423296546524) 
 
 2. Work out how you can help!
+
 **Are you a Data scientist?** 
  - Before you begin, [read our guidance] on how we are structuring our data(LINK)
  - Help us to structure and label [our existing datasets from our inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0)
