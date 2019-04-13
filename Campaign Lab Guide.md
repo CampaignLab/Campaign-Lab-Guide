@@ -2,7 +2,7 @@
 
 [Campaign Lab](https://www.campaignlab.london/) is a community of political analysts, researchers, developers and data scientists organised around a simple idea, to develop an evidence-based approach to electoral campaigning in the UK. A little known fact, the Labour Party has never undertaken a retroactive analysis of it's electoral campaigning methods. This sounds a little farfetched, how can the Labour movement iterate on how we communicate our ideas to the public and win elections if we're unwilling, despite our resources, to understand how we failed and succeeded in the past?
 
-**As a result, we're committed to kickstarting a change in how the Labour Party conducts electoral campaigning analysis - and that begins with you and me.**
+**As a result, we're committed to kickstarting a change in how political parties conduct electoral campaigning analysis - and that begins with you and me.**
 
 We've run a series of events crowdsourcing datasets and running analysis on what data we have, to better understand what happened in the 2018 Local Elections as a starting point. We're focusing on identifying local areas that buck the national demographic and politics trends, then diving down into interviews and qualitative research of those areas to get a handle on the ground situation. With that, we'll hopefully have some understanding of what worked and what didn't.
 
