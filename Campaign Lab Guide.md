@@ -3,11 +3,6 @@
 ### What is the Campaign Library?
 A new library resource for activists and campaign organisers on campaign theory and practice in the UK, made by Campaign Lab.
 
-##### Key links:
-* [GitHub repository](https://github.com/CampaignLab/campaign-library)
-* [Live demo](https://hawking-d0ad2.netlify.com/)
-* [Form for submitting Campaign Literature](https://airtable.com/shrhW7BMRPPjGNZAx)
-
 ### How you can help
 
 ##### Read and summarise evidence on campaign theory and practice:
