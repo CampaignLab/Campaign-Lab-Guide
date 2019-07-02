@@ -17,6 +17,19 @@ Below are a range of resources you'll need for your first Campaign Lab:
  - Help us to structure and label [our existing datasets from our inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0)
  - Help us to start to build [an initial model to work out which election results are outliers](https://github.com/CampaignLab/data-pipeline/issues/35) This will allow us to work out who may have been innovating in their campaigns.
  - Or help us look for correlations between election results and different political factors by choosing your [Hackday Challenge](https://github.com/CampaignLab/data-pipeline/issues)
+ 
+**Hack Day Challenges we still need to complete...**
+ - [Does the weather affect turnout or vote share?](https://github.com/CampaignLab/data-pipeline/issues/12) 
+ - [Do school cuts affect election results?](https://github.com/CampaignLab/data-pipeline/issues/16)
+ - [Does broadband speed correlate to election results?](https://github.com/CampaignLab/data-pipeline/issues/1)
+ - [Does the number of traffic incidents correlate to election results?](https://github.com/CampaignLab/data-pipeline/issues/21)
+ - [Does incumbency affect election results?](https://github.com/CampaignLab/data-pipeline/issues/36)
+ - [Does turnout affect election results?](https://github.com/CampaignLab/data-pipeline/issues/37)
+ - [Do Crime stats affect election results?](https://github.com/CampaignLab/data-pipeline/issues/2)
+ - [Do house prices do correlate with election results?](https://github.com/CampaignLab/data-pipeline/issues/19)
+ - [Does Overcrowding impact on election results?](https://github.com/CampaignLab/data-pipeline/issues/20)
+ - [Can we try and build an initial model?](https://github.com/CampaignLab/data-pipeline/issues/35)
+
 
 **Are you a Developer?** 
  - Work with activists to help us to design a [new dashboard] to make Get Out the Vote Election operations more efficient(Link to brief)
