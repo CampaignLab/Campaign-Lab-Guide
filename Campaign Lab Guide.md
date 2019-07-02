@@ -30,7 +30,6 @@ Below are a range of resources you'll need for your first Campaign Lab:
  - [Does Overcrowding impact on election results?](https://github.com/CampaignLab/data-pipeline/issues/20)
  - [Can we try and build an initial model?](https://github.com/CampaignLab/data-pipeline/issues/35)
 
-
 **Are you a Developer?** 
  - Work with activists to help us to design a [new dashboard](https://docs.google.com/document/u/1/d/1q8RJFEYv1E2VAuEdEZYRGorT37RV-rFH0qVSWpiNQOo/edit?usp=sharing) to make Get Out the Vote Election operations more efficient - keep updated on this team's progress on the slack channel #gotv-dashboard
  - Help us [spec out what's needed for a new SchoolCuts style website](https://github.com/CampaignLab/data-pipeline/issues/24)
