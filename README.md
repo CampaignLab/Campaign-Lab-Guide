@@ -37,3 +37,4 @@ https://github.com/morkeltry/GSScode-converter/blob/master/js-xlsx/inventory.js
 will be cloned to
 https://github.com/CampaignLab/data-pipeline/tree/master/js-xlsx/inventory.js
 today.
+(Instructions for updating:  https://github.com/morkeltry/GSScode-converter/blob/master/js-xlsx/HOW%20TO%20USE%20INVENTORY%20PROPERTY%20NAMES.md )
