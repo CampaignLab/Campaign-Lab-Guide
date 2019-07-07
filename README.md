@@ -1,6 +1,6 @@
 # START HERE!
 
-This document is a list of the authoritative documents with which we keep track of our progress.
+This document is a *list of the authoritative documents* with which we keep track of our progress.
  Please keep the documents linked to here maintained and don't duplicate their functionality elsewhere :)
 
 ### CampaignLab Guide
