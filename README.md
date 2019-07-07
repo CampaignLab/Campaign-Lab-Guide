@@ -33,8 +33,7 @@ If you have done work at CampaignLab, *please* add a link in this spreadsheet, a
 ### Converted datasets
 
 We are aiming to make transformers which convert data. Some converted datasets will be stored on GitHub but they can be big. There is a JSON dataset inventory so that we can eventually index our converted datasets.
-https://github.com/morkeltry/GSScode-converter/blob/master/js-xlsx/inventory.js
-will be cloned to
-https://github.com/CampaignLab/data-pipeline/tree/master/js-xlsx/inventory.js
-today.
+https://github.com/CampaignLab/data-pipeline/tree/js-xlsx/transformers/js-xlsx
+
+(NB: Note this is on js-xlsx branch, not master)
 (Instructions for updating:  https://github.com/morkeltry/GSScode-converter/blob/master/js-xlsx/HOW%20TO%20USE%20INVENTORY%20PROPERTY%20NAMES.md )
