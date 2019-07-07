@@ -8,18 +8,20 @@ We've run a series of events crowdsourcing datasets and running analysis on what
 
 Below are a range of resources you'll need for your first Campaign Lab:
 
-1. Here's [a doc outlining our key work strands/goals which have been decided by our community and who is working on each bit](https://docs.google.com/document/u/1/d/1QAQ4Bi3mv17ahmY1bnDFTI9eeiQeKp01PTSuGW6ZIwo/edit?usp=drive_web&ouid=108819407423296546524) 
+1. Here's [a doc outlining our key work strands/goals which have been decided by our community and who is working on each bit](https://docs.google.com/document/u/1/d/1QAQ4Bi3mv17ahmY1bnDFTI9eeiQeKp01PTSuGW6ZIwo/edit?usp=drive_web&ouid=108819407423296546524)
 
 2. Work out how you can help!
 
-**Are you a Data scientist?** 
+**Are you a Data scientist?**
  - Before you begin, [read our guidance on how we are structuring our data](https://docs.google.com/document/d/1r55ip0-fA95e6TadlfFnY85CjOnhv8wg3-Kn61SeLf8/edit?usp=sharing)
  - Help us to structure and label [our existing datasets from our inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0)
+ - machine readable form (datasets we are working with only):
+ https://github.com/CampaignLab/data-pipeline/tree/master/js-xlsx/inventory.js
  - Help us to start to build [an initial model to work out which election results are outliers](https://github.com/CampaignLab/data-pipeline/issues/35) This will allow us to work out who may have been innovating in their campaigns.
  - Or help us look for correlations between election results and different political factors by choosing your [Hackday Challenge](https://github.com/CampaignLab/data-pipeline/issues)
- 
+
 **Hack Day Challenges we still need to complete...**
- - [Does the weather affect turnout or vote share?](https://github.com/CampaignLab/data-pipeline/issues/12) 
+ - [Does the weather affect turnout or vote share?](https://github.com/CampaignLab/data-pipeline/issues/12)
  - [Do school cuts affect election results?](https://github.com/CampaignLab/data-pipeline/issues/16)
  - [Does broadband speed correlate to election results?](https://github.com/CampaignLab/data-pipeline/issues/1)
  - [Does the number of traffic incidents correlate to election results?](https://github.com/CampaignLab/data-pipeline/issues/21)
@@ -30,14 +32,16 @@ Below are a range of resources you'll need for your first Campaign Lab:
  - [Does Overcrowding impact on election results?](https://github.com/CampaignLab/data-pipeline/issues/20)
  - [Can we try and build an initial model?](https://github.com/CampaignLab/data-pipeline/issues/35)
 
-**Are you a Developer?** 
+**Are you a Developer?**
  - Work with activists to help us to design a [new dashboard](https://docs.google.com/document/u/1/d/1q8RJFEYv1E2VAuEdEZYRGorT37RV-rFH0qVSWpiNQOo/edit?usp=sharing) to make Get Out the Vote Election operations more efficient - keep updated on this team's progress on the slack channel #gotv-dashboard
  - Help us [spec out what's needed for a new SchoolCuts style website](https://github.com/CampaignLab/data-pipeline/issues/24)
+ - Keep a log of what you've worked on here:
+ https://docs.google.com/spreadsheets/d/1s6U4PTd8V2pKUdNIO1eR3y-Pl_P8zth-DLi0zyVwO9w/edit?usp=sharing
 
 **Are you a researcher or activist?**
  - Contribute to the [Campaign Lab Data Inventory](https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0) where we're building a list of datasets, check the GAPS tab for missing required data or add in additional data you are aware of or find then add it in!
  - If you are an organiser, activist or you have experience of running a committee room - help work with developers on creating a [new dashboard](https://docs.google.com/document/d/1ybXO9BO06h0uaLJuizn3hMxKLHQzhlWR-w9c57t0tHQ/edit?usp=sharing) for managing information for Get Out the Vote Operations(LINK)
- - Or help us build the new [Campaign Library](https://airtable.com/invite/l?inviteId=invGG3yYWHtSnWFda&inviteToken=6a5af86c02deb40429f1dcda1b4416c1a7c30f4e1f97ffaa8b2219c2cd169a9a), a new resource for activists and campaign organisers of campaign theory and practice in the UK providing accessible summaries to academic studies. You can help by finding academic papers about campaigning and summarising them using this form or by updating the airtable here. 
+ - Or help us build the new [Campaign Library](https://airtable.com/invite/l?inviteId=invGG3yYWHtSnWFda&inviteToken=6a5af86c02deb40429f1dcda1b4416c1a7c30f4e1f97ffaa8b2219c2cd169a9a), a new resource for activists and campaign organisers of campaign theory and practice in the UK providing accessible summaries to academic studies. You can help by finding academic papers about campaigning and summarising them using this form or by updating the airtable here.
 
 3. **Whatever you are working on - don't forget to join our [Campaign Lab Team Chat](https://campaignlabhq.slack.com/)** <- where we discuss all things Campaign Lab, remember to join the relevant channels!**
 
@@ -56,7 +60,7 @@ A great byproduct of this work includes building the UK's first comprehensive au
 
 Campaign Lab is supported by:
 
-* Newspeak House 
+* Newspeak House
 * Labour Together
 * Police Rewired
 
