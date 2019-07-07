@@ -1,9 +1,7 @@
 # START HERE
 
-### What is the Campaign Library?
-A new library resource for activists and campaign organisers on campaign theory and practice in the UK, made by Campaign Lab.
-
-### How you can help
+### CampaignLab Guide
+Your [guide](https://github.com/CampaignLab/Campaign-Lab-Guide/blob/master/Campaign%20Lab%20Guide.md) to how to interact with our multifarious projects!
 
 ##### Read and summarise evidence on campaign theory and practice:
 You can sign up to edit the AirTable here (which also has ideas of resources you could summarise) or submit via our form here
@@ -75,3 +73,8 @@ E.g. campaignlab.org/literature/a-piece-of-research
 E.g. campaignlab.org/literature/123
 Where the underlined section denotes the slug
 Given Campaign Lab (and thus the Library) are now under the umbrella of ‘progressive’ and not ‘Labour’, is the very Labour red a bit much?
+
+
+### Ongoing projects you can get involved in:
+
+Non-exhaustive, but descriptive, [list of the fun stuff we're doing!](https://docs.google.com/document/d/1QAQ4Bi3mv17ahmY1bnDFTI9eeiQeKp01PTSuGW6ZIwo/edit) This doc is for peeople to read who want to know what projects they could get involved in, or start :)
