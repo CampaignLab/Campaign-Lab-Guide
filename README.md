@@ -9,7 +9,7 @@ Your guide to how to interact with our multifarious projects!
 https://github.com/CampaignLab/Campaign-Lab-Guide/blob/master/Campaign%20Lab%20Guide.md
 
 ### The data inventory
-This is the spreadsheet which shold store links to every dataset which might be interesting to us.
+This is the spreadsheet which should store links to every dataset which might be interesting to us.
 
 https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=0
 
@@ -32,8 +32,9 @@ If you have done work at CampaignLab, *please* add a link in this spreadsheet, a
 
 ### Converted datasets
 
-We are aiming to make transformers which convert data. Some converted datasets will be stored on GitHub but they can be big. There is a JSON dataset inventory so that we can eventually index our converted datasets.
-https://github.com/CampaignLab/data-pipeline/tree/js-xlsx/transformers/js-xlsx
+We are aiming to make transformers which convert data. Some converted datasets will be stored on GitHub but they can be big, so it's worth keeping them in a data floder which is .gitignore'd. There is a JSON dataset inventory so that we can eventually index our converted datasets in a form that our programs can read. This will also help for quickly or automatically downloading the files we didn't pull in the repo.
+https://github.com/CampaignLab/data-pipeline/tree/js-xlsx/transformers/js-xlsx/inventory.js
 
 (NB: Note this is on js-xlsx branch, not master)
+
 (Instructions for updating:  https://github.com/morkeltry/GSScode-converter/blob/master/js-xlsx/HOW%20TO%20USE%20INVENTORY%20PROPERTY%20NAMES.md )
