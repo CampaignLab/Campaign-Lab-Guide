@@ -20,7 +20,7 @@ Non-exhaustive, but descriptive list of the fun stuff we're doing! This doc is f
 https://docs.google.com/document/d/1QAQ4Bi3mv17ahmY1bnDFTI9eeiQeKp01PTSuGW6ZIwo/edit
 
 
-###  Don't duplicate work!  Has your project already been started?
+###  Don't duplicate effort!  Has your project already been started?
 
 Coding and transformer work is listed here:
 
@@ -32,9 +32,12 @@ If you have done work at CampaignLab, *please* add a link in this spreadsheet, a
 
 ### Converted datasets
 
-We are aiming to make transformers which convert data. Some converted datasets will be stored on GitHub but they can be big, so it's worth keeping them in a data floder which is .gitignore'd. There is a JSON dataset inventory so that we can eventually index our converted datasets in a form that our programs can read. This will also help for quickly or automatically downloading the files we didn't pull in the repo.
+We are aiming to make transformers which convert data from it's source format to more useful formats. 
+Partly this means converting to .csv, but also automating dropping empty columns, etc., the standardisation of names and even geographical levels.
+
+Some converted datasets will be stored on GitHub but they can be big, so it's worth keeping them in a `data` folder which is .gitignore'd. There is a JSON dataset inventory so that we can eventually index our converted datasets in a form that our programs can read. This will also help for quickly or automatically downloading the files we didn't pull in the repo.
 https://github.com/CampaignLab/data-pipeline/tree/js-xlsx/transformers/js-xlsx/inventory.js
 
 (NB: Note this is on js-xlsx branch, not master)
 
-(Instructions for updating:  https://github.com/morkeltry/GSScode-converter/blob/master/js-xlsx/HOW%20TO%20USE%20INVENTORY%20PROPERTY%20NAMES.md )
+(Instructions for updating the inventory:  https://github.com/morkeltry/GSScode-converter/blob/master/js-xlsx/HOW%20TO%20USE%20INVENTORY%20PROPERTY%20NAMES.md )
