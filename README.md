@@ -33,4 +33,4 @@ Some converted datasets will be stored on GitHub but they can be big, so it's wo
 
 (NB: Note this is on js-xlsx branch, not master)
 
-((Instructions)[https://github.com/morkeltry/GSScode-converter/blob/master/js-xlsx/HOW%20TO%20USE%20INVENTORY%20PROPERTY%20NAMES.md] for updating the inventory)
+([Instructions](https://github.com/morkeltry/GSScode-converter/blob/master/js-xlsx/HOW%20TO%20USE%20INVENTORY%20PROPERTY%20NAMES.md) for updating the inventory)
