@@ -51,7 +51,7 @@ Below are a range of resources you'll need for your first Campaign Lab:
 
 6. Don't understand a thing? Check out our [Glossary of Terms](https://docs.google.com/document/d/1_7S-3v-HHpjbyR0sG-MXrWfXcQdrXaU0bSHhnpYACAU/edit?usp=sharing) <-- contribute to this at your leisure
 
-7. Unsure of how you can help? Ask [James](twitter.com/jamesforthemany) or [Hannah](twitter.com/hannah_o_rourke) for help via Twitter, Slack or in person at an event, or those around you who may have contributed to previous Campaign Labs
+7. Unsure of how you can help? Ask [James](https://twitter.com/jamesforthemany) or [Hannah](https://twitter.com/hannah_o_rourke) for help via Twitter, Slack or in person at an event, or those around you who may have contributed to previous Campaign Labs
 
 
 **Making it easier to build a new range of websites demonstrating the impact of austerity in your community**
