@@ -17,18 +17,6 @@ You can sign up to edit the AirTable here (which also has ideas of resources you
 We have a Guide to using AirTable below that might come in handy (we were new to it too!)
 Feel free to add to this guide and encourage others to contribute to the library!
 
-##### Improve the Campaign Lab website:
-The GitHub repository has all the code open source and further information, as well as some open issues you’re welcome to assign yourself to
-Feel free to ask questions in the #campaign-library channel in the Campaign Lab Slack - additions and improvements to our documentation are also very welcome
-Raising issues is super helpful, even if you don’t have time to take them on yet!
-Website copy:
-If you have improvements, suggestions or additions, either mention them in the #campaign-library channel in the Campaign Lab Slack, add them in this document or make a pull request directly to the GitHub repository.
-Ideas
-The platform can also serve the Campaign Lab’s own research findings
-If we get press for particular finding, that can link to the summary, which in turn would publicise the library as a whole to encourage evidence use
-In future we could include profiles of experts on different topics who were willing to be contacted
-A little bit like Apolitical, but for campaigning
-
 ##### Ongoing projects you can get involved in:
 
 Non-exhaustive, but descriptive, [list of the fun stuff we're doing!](https://docs.google.com/document/d/1QAQ4Bi3mv17ahmY1bnDFTI9eeiQeKp01PTSuGW6ZIwo/edit) This doc is for peeople to read who want to know what projects they could get involved in, or start :)
