@@ -10,13 +10,6 @@ Your [guide](https://github.com/CampaignLab/Campaign-Lab-Guide/blob/master/Campa
 ### The data inventory
 This is the spreadsheet which should store links to every dataset which might be interesting to us.
 
-### How you can help
-
-##### Read and summarise evidence on campaign theory and practice:
-You can sign up to edit the AirTable here (which also has ideas of resources you could summarise) or submit via our form here
-We have a Guide to using AirTable below that might come in handy (we were new to it too!)
-Feel free to add to this guide and encourage others to contribute to the library!
-
 ##### Ongoing projects you can get involved in:
 
 Non-exhaustive, but descriptive, [list of the fun stuff we're doing!](https://docs.google.com/document/d/1QAQ4Bi3mv17ahmY1bnDFTI9eeiQeKp01PTSuGW6ZIwo/edit) This doc is for peeople to read who want to know what projects they could get involved in, or start :)
