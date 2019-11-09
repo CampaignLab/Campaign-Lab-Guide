@@ -1,5 +1,8 @@
 # START HERE!
 
+This document is a **list of the authoritative documents** with which we keep track of our progress (not a howto)
+ Please keep the documents linked to here maintained and don't duplicate their functionality elsewhere :)
+
 ### CampaignLab Guide
 Your [guide](https://github.com/CampaignLab/Campaign-Lab-Guide/blob/master/Campaign%20Lab%20Guide.md) to how to interact with our multifarious projects!
 
