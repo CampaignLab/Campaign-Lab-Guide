@@ -29,5 +29,3 @@ We are aiming to make transformers which convert data from it's source format to
 Partly this means converting to .csv, but also automating dropping empty columns, etc., the standardisation of names and even geographical levels.
 
 Some converted datasets will be stored on GitHub but they can be big, so it's worth keeping them in a `data` folder which is .gitignore'd. There is a JSON dataset inventory so that we can eventually index our converted datasets in a form that our programs can read. This will also help for quickly or automatically downloading the files we didn't pull in the repo.
-
-(NB: Note this is on js-xlsx branch, not master)
