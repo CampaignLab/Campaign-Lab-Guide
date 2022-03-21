@@ -8,11 +8,16 @@ Your [guide](https://github.com/CampaignLab/Campaign-Lab-Guide/blob/master/Campa
 
 
 ### The data inventory
-This is the spreadsheet which should store links to every dataset which might be interesting to us.
+This is the spreadsheet which should store links to every dataset which might be interesting to us. https://docs.google.com/spreadsheets/d/1s5zWhdXi0-YBUMkK2Le3cfENBsfc29vOnFhnfn8N6dU/edit#gid=643739676
 
-##### Ongoing projects you can get involved in:
+##### Current projects:
+The list of areas for project we are working on at the moment is here: https://docs.google.com/document/d/1zK23PvzXCT6R85p4WKEJvv1mcnyoLXCLB8iW625tJYw/edit#
+For people to read who want to know what projects they could get involved in, or start :)
+
+##### Historic projects:
 
 Non-exhaustive, but descriptive, [list of the fun stuff we're doing!](https://docs.google.com/document/d/1QAQ4Bi3mv17ahmY1bnDFTI9eeiQeKp01PTSuGW6ZIwo/edit) This doc is for peeople to read who want to know what projects they could get involved in, or start :)
+Also for our virtual hackdays during the pandemic - here's what we were working on: https://docs.plus/CampaignLabHackDay12Dec
 
 
 ###  Don't duplicate effort!  Has your project already been started?
